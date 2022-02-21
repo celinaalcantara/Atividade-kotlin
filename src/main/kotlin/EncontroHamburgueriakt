@@ -1,0 +1,17 @@
+fun main() {
+    println("Bruna - Olá pessoal, tudo bem?")
+    println("Gabriele - Tudo bem e você?")
+    println("Letícia - Tudo sim, apenas a conexão que está ruim.")
+    println("Nathália - A minha também!")
+    println("Bruna - Eu estava pensando em ir na hamburgueria da Geovana com o grupo, o que voces acham?")
+    println("Letícia - Boa ideia, eu adoraria ir")
+    println("Gabriele - Sim, o problema é a distância.")
+    println("Bruna - Poderiamos combinar de ir todos juntos.")
+    println("Letícia - Quando vocês podem ir?")
+    println("Gabriele - Eu posso no próximo final de semana, e vocês?")
+    println("Nathália - Eu também estou livre no proximo final de semana!")
+    println("Bruna - Eu vou conferir, mas acho que também posso ir.")
+    println("Letícia - Ótimo, então ta marcado. Vamos combinar um horário durante a semana")
+    println("Gabriele - Combinado, vou procurar o melhor caminho para chegar lá.")
+    println ("Bruna - Beleza, eu vou falar com  a Geovana.")
+}
